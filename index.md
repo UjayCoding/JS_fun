@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 These are my JS projects so far, hope you like them :)
+
 **API of APIs**
 Display entries from publicapis.org API
 Allow search by categories
