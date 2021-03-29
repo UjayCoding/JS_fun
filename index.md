@@ -3,9 +3,9 @@
 These are my JS projects so far, hope you like them :)
 
 **API of APIs**
--Display entries from publicapis.org API
--Allow search by categories
--Display results using grid+flexbox
+- Display entries from publicapis.org API
+- Allow search by categories
+- Display results using grid+flexbox
 
 **Beer App**
 Display beers from punkapi.com with option to filter by alcohol volume & hoppiness
