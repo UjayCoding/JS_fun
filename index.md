@@ -29,7 +29,30 @@ These are my JS projects so far, hope you like them :)
 - Fetch users from randomuser.me using async/await
 - Append each user as list item
 - Display name, postcode, age and phone number of each user 
-- Option to search by firstname
+
+**Mealfinder**
+- Display meal categories from themealdb.com
+- Show description on hover
+- option to search for meal category and display examples
+- option to click 'random button' to display a random recipe
+
+**Movie_api**
+- Display movies from api.themoviedb.org
+- Show overview on hover
+- option to search for movie by entering search query
+- option to 'fetch' and display next page
+
+**NotesApp**
+- new note button creates note which saves as one of nine random colors
+- edit button toggles edit, updates local storage
+- textarea allows for markdown formatting
+- delete button removes note
+
+**Pokedex**
+- Fetch 150 pokemons from pokeapi.co
+- Show stats on hover
+- Display using flexbox
+
 
 
 
